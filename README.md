@@ -1,6 +1,10 @@
 # Food Shop
 
-A grocery shopping app developed with React.
+Grocery shopping app built with React and React Router. Includes cart and favourites functionality.
+
+## Stack
+
+React, React Router, Styled Components
 
 ## Live demo
 
