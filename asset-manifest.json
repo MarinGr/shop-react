@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shop-react/static/css/main.fac2e010.css",
-    "main.js": "/shop-react/static/js/main.fb50e4dd.js",
+    "main.js": "/shop-react/static/js/main.44fb02a9.js",
     "static/media/background-pattern.png": "/shop-react/static/media/background-pattern.9a09a49c59153a615a9d.png",
     "static/media/juice.png": "/shop-react/static/media/juice.a908622e2fda68029dbc.png",
     "static/media/chocolate.png": "/shop-react/static/media/chocolate.653897a31f99e7920fca.png",
@@ -38,10 +38,10 @@
     "static/media/orange-juice.png": "/shop-react/static/media/orange-juice.10f62f9c2c5cd04ad1e5.png",
     "index.html": "/shop-react/index.html",
     "main.fac2e010.css.map": "/shop-react/static/css/main.fac2e010.css.map",
-    "main.fb50e4dd.js.map": "/shop-react/static/js/main.fb50e4dd.js.map"
+    "main.44fb02a9.js.map": "/shop-react/static/js/main.44fb02a9.js.map"
   },
   "entrypoints": [
     "static/css/main.fac2e010.css",
-    "static/js/main.fb50e4dd.js"
+    "static/js/main.44fb02a9.js"
   ]
 }
