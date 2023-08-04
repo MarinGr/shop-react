@@ -64,7 +64,13 @@ export default function Footer() {
       </MainInfo>
       <CopyrightInfo>
         <Copyright>© 2023 TemplatesJungle. All rights reserved.</Copyright>
-        <Copyright>Design by TemplatesJungle</Copyright>
+        {/* <Copyright>Design by TemplatesJungle</Copyright> */}
+        <Copyright>
+          <p>
+            Free Template by
+            <a href="https://templatesjungle.com/"> TemplatesJungle</a>
+          </p>
+        </Copyright>
       </CopyrightInfo>
     </Container>
   );
